@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(129, 129, 129);
+}
+h1{
+    background-color: rgb(97, 97, 97);
+    text-align: center;
+    color: white;
+    font-family: cursive;
+}
+
+header img{
+    height: 40px;
+    width: 40px;
+    float: left;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-family: cursive;
+}
+main img{
+    width: 150px;
+}
+
+h3{
+    color: white;
+    font-family: cursive;
+}
+.peperoni{
+    width: 150;
+    margin-left: 0cm;
+}
+ 
+.gavaiska{
+    width: 150px;
+    
+}
+
+
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 0 30px;
+}
+
+
+
